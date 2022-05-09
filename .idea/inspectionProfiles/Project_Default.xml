@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="swiper.user.models.Profile.*" />
+          <option value="swiper.user.models.User.*" />
+          <option value="swiper.vip.models.Vip.*" />
+          <option value="swiper.lib.orm.ModelMixin.*" />
+          <option value="swiper.social.models.Swiped.*" />
+          <option value="swiper.social.models.Friend.*" />
+          <option value="advanceDjango.settings.*" />
+          <option value="vip.models.Vip.*" />
+          <option value="vip.models.Permission.*" />
+          <option value="social.models.Swiped.*" />
+          <option value="social.models.Friend.*" />
+          <option value="user.models.User.*" />
+          <option value="apps.users.models.User.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
